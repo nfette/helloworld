@@ -24,5 +24,7 @@ along with this program.  If not, see {http://www.gnu.org/licenses/}.
 int main()
 {
     std::cout << "Hello mundo!" << std::endl;
+    std::wcout << L"Espero que estás bien." << std::endl;
+    return 0;
 }
 
