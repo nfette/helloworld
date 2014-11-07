@@ -25,6 +25,7 @@ int main()
 {
     std::cout << "Hello mundo!" << std::endl;
     std::wcout << L"Espero que estás bien." << std::endl;
+    std::cout << "And I (can only) hope you are using a unicode-compatible terminal." << std::endl;
     return 0;
 }
 
